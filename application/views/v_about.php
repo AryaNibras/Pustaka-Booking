@@ -17,7 +17,7 @@
     </ul>
     <h4>Olah Raga Favorit</h4>
     <ul type="square">
-        <li>5 jari (Valorant Game)</li>
-        <li>Lari ngejar deadline tugas</li>
+        <li>10 jari (Valorant Game)</li>
+        <li>Lari dari kerasnya kehidupan dan kejaran debt collector</li>
     </ul>
 </section>
