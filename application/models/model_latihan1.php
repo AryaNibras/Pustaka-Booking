@@ -1,4 +1,4 @@
-?php
+<?php
 class model_latihan1 extends CI_Model{
     public $nilai1, $nilai2, $hasil;
     public function jumlah($n1 = null, $n2 = null){
